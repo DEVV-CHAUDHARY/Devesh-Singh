@@ -49,19 +49,22 @@
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
-### 🌿 Nature Power Healthcare Website
-🔗 https://github.com/DEVV-CHAUDHARY/NaturePower
+### 🌿 NaturePower Healthcare Website
+A modern healthcare website with a responsive UI and clean user experience.
+🔗 **Repository:**(https://github.com/DEVV-CHAUDHARY/NATUREPOWERHEALTHCARE.IN)
 
 ### 🛍️ DevStore
-🔗 https://github.com/DEVV-CHAUDHARY/DevStore
+A responsive e-commerce website built using modern web technologies.
+🔗 **Repository:**(https://github.com/DEVV-CHAUDHARY/DEVSTORE)
 
 ### 👨‍💻 Personal Portfolio
-🔗 https://github.com/DEVV-CHAUDHARY/devesh-portfolio
+My personal portfolio showcasing my skills, projects, certifications, and career journey.
+🔗 **Repository:**(https://github.com/DEVV-CHAUDHARY/devesh-portfolio)
 
 ### 🐍 DecodeLabs Python Internship
-🔗 https://github.com/DEVV-CHAUDHARY/DecodeLabs-Python-Internship
+Python internship tasks and projects completed during my internship at DecodeLabs.
+🔗 **Repository:**(https://github.com/DEVV-CHAUDHARY/DecodeLabs-Python-Internship)
 
 ### 🧮 Scientific Calculator (Java)
-🔗 https://github.com/DEVV-CHAUDHARY/Scientific-Calculator-Java
+A Java-based scientific calculator with scientific operations.
+🔗 **Repository:**(https://github.com/DEVV-CHAUDHARY/scientific-calculator-java)
