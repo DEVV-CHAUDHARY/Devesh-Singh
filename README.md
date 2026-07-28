@@ -1,47 +1,67 @@
-Hi, I'm Devesh Singh 👋
+# Hi there, I'm Devesh Singh 👋
 
-🎓 BCA Student (2025–2028)
+### Aspiring Data Analyst & AI/ML Engineer
 
-🤖 Aspiring AI/ML Engineer
+🎓 BCA Student  
+💻 Passionate about Data Analytics, Artificial Intelligence & Machine Learning  
+🐍 Currently learning Python, SQL, Power BI & Machine Learning  
+🚀 Building real-world projects and continuously improving my skills  
+📫 Reach me at: **gthdev8126@gmail.com**
 
-📊 Data Analytics Enthusiast
+## 🛠️ Tech Stack
 
-🎬 Freelance Video Editor
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode,mysql" />
+</p>
 
----
+**Currently Learning**
+- 📊 Power BI
+- 🐼 Pandas
+- 🔢 NumPy
+- 🤖 Machine Learning
 
-About Me
+- ## 🌐 Connect With Me
 
-I'm a BCA student focused on building skills in Artificial Intelligence, Machine Learning, and Data Analytics.
+<p align="left">
+<a href="https://www.linkedin.com/in/deveshsingh-ai" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/DEVV-CHAUDHARY" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+</p>
 
-I enjoy working on real projects, learning new technologies, and solving problems through technology.
+📧 **Email:** gthdev8126@gmail.com
 
-Alongside my technical journey, I also work as a freelance video editor, helping clients create engaging short-form and long-form content.
+## 📊 GitHub Stats
 
----
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DEVV-CHAUDHARY&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVV-CHAUDHARY&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-Currently Learning
+## 🔥 GitHub Streak
 
-- Python
-- SQL
-- Power BI
-- Machine Learning
-- Generative AI
-- Data Analytics
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DEVV-CHAUDHARY&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
----
+## 🚀 Featured Projects
 
-Goals for 2026
+## 🚀 Featured Projects
 
-- Build strong AI/ML foundations
-- Create real-world projects
-- Improve problem-solving skills
-- Grow my GitHub portfolio
-- Prepare for internships and future opportunities
+### 🌿 Nature Power Healthcare Website
+🔗 https://github.com/DEVV-CHAUDHARY/NaturePower
 
----
+### 🛍️ DevStore
+🔗 https://github.com/DEVV-CHAUDHARY/DevStore
 
-Connect With Me
+### 👨‍💻 Personal Portfolio
+🔗 https://github.com/DEVV-CHAUDHARY/devesh-portfolio
 
-LinkedIn:
-www.linkedin.com/in/devv-chaudharii
+### 🐍 DecodeLabs Python Internship
+🔗 https://github.com/DEVV-CHAUDHARY/DecodeLabs-Python-Internship
+
+### 🧮 Scientific Calculator (Java)
+🔗 https://github.com/DEVV-CHAUDHARY/Scientific-Calculator-Java
