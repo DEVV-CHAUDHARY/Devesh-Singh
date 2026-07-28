@@ -36,10 +36,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEVV-CHAUDHARY&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVV-CHAUDHARY&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DEVV-CHAUDHARY&theme=tokyonight" />
 </p>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -50,20 +48,30 @@
 
 ### 🌿 NaturePower Healthcare Website
 A modern healthcare website with a responsive UI and clean user experience.
+
 🔗 **Repository:**(https://github.com/DEVV-CHAUDHARY/NATUREPOWERHEALTHCARE.IN)
 
 ### 🛍️ DevStore
 A responsive e-commerce website built using modern web technologies.
+
 🔗 **Repository:**(https://github.com/DEVV-CHAUDHARY/DEVSTORE)
 
 ### 👨‍💻 Personal Portfolio
 My personal portfolio showcasing my skills, projects, certifications, and career journey.
+
 🔗 **Repository:**(https://github.com/DEVV-CHAUDHARY/devesh-portfolio)
 
 ### 🐍 DecodeLabs Python Internship
 Python internship tasks and projects completed during my internship at DecodeLabs.
+
 🔗 **Repository:**(https://github.com/DEVV-CHAUDHARY/DecodeLabs-Python-Internship)
 
 ### 🧮 Scientific Calculator (Java)
 A Java-based scientific calculator with scientific operations.
+
 🔗 **Repository:**(https://github.com/DEVV-CHAUDHARY/scientific-calculator-java)
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DEVV-CHAUDHARY&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
